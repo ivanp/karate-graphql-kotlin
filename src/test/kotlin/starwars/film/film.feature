@@ -1,4 +1,4 @@
-Feature: loading kerja.kitalulus.com
+Feature: loading film from starswars graphql api
   Background:
     * url starWarsUrl
     * def query = read('film.graphql')
